@@ -1,0 +1,7 @@
+C:\Users\Marian\Desktop\lab2\KV\Purse\bin\Debug\Purse.exe.config
+C:\Users\Marian\Desktop\lab2\KV\Purse\bin\Debug\Purse.exe
+C:\Users\Marian\Desktop\lab2\KV\Purse\bin\Debug\Purse.pdb
+C:\Users\Marian\Desktop\lab2\KV\Purse\obj\Debug\Purse.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\lab2\KV\Purse\obj\Debug\Purse.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\lab2\KV\Purse\obj\Debug\Purse.exe
+C:\Users\Marian\Desktop\lab2\KV\Purse\obj\Debug\Purse.pdb
