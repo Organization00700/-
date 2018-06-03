@@ -1,0 +1,6 @@
+C:\Users\Marian\Desktop\Створити папку (2)\ViktiriiaKalchuk\Purse\Money\bin\Debug\Money.dll
+C:\Users\Marian\Desktop\Створити папку (2)\ViktiriiaKalchuk\Purse\Money\bin\Debug\Money.pdb
+C:\Users\Marian\Desktop\Створити папку (2)\ViktiriiaKalchuk\Purse\Money\obj\Debug\Money.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\Створити папку (2)\ViktiriiaKalchuk\Purse\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\Створити папку (2)\ViktiriiaKalchuk\Purse\Money\obj\Debug\Money.dll
+C:\Users\Marian\Desktop\Створити папку (2)\ViktiriiaKalchuk\Purse\Money\obj\Debug\Money.pdb
