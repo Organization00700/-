@@ -10,6 +10,8 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            CreditCard.Class1 crCrd = new CreditCard.Class1(100);
+            crCrd.AddMoney(200);
         }
     }
 }
