@@ -10,6 +10,8 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            BusinessCard.Class busCrd = new BusinessCard.Class(1000);
+            busCrd.Subtract(200);
         }
     }
 }

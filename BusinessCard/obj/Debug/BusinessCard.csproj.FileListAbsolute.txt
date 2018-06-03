@@ -1,0 +1,6 @@
+C:\Users\Marian\Desktop\Створити папку (2)\OksanaOprysk\Purse\BusinessCard\bin\Debug\BusinessCard.dll
+C:\Users\Marian\Desktop\Створити папку (2)\OksanaOprysk\Purse\BusinessCard\bin\Debug\BusinessCard.pdb
+C:\Users\Marian\Desktop\Створити папку (2)\OksanaOprysk\Purse\BusinessCard\obj\Debug\BusinessCard.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\Створити папку (2)\OksanaOprysk\Purse\BusinessCard\obj\Debug\BusinessCard.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\Створити папку (2)\OksanaOprysk\Purse\BusinessCard\obj\Debug\BusinessCard.dll
+C:\Users\Marian\Desktop\Створити папку (2)\OksanaOprysk\Purse\BusinessCard\obj\Debug\BusinessCard.pdb
