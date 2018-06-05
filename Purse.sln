@@ -5,9 +5,10 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse\Purse.csproj", "{E47EBFEF-F89B-4FB9-B016-5D48440226F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{B9A5925A-4EBB-4226-8158-F385046F5F3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{A7CEE710-FCF9-498A-8712-05B3292F502A}"
 EndProject
-Global
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{B9A5925A-4EBB-4226-8158-F385046F5F3C}"
+EndProjectGlobal
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -17,11 +18,14 @@ Global
 		{E47EBFEF-F89B-4FB9-B016-5D48440226F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E47EBFEF-F89B-4FB9-B016-5D48440226F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E47EBFEF-F89B-4FB9-B016-5D48440226F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		A7CEE710-FCF9-498A-8712-05B3292F502A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CEE710-FCF9-498A-8712-05B3292F502A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CEE710-FCF9-498A-8712-05B3292F502A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CEE710-FCF9-498A-8712-05B3292F502A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B9A5925A-4EBB-4226-8158-F385046F5F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B9A5925A-4EBB-4226-8158-F385046F5F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A5925A-4EBB-4226-8158-F385046F5F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9A5925A-4EBB-4226-8158-F385046F5F3C}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+		{B9A5925A-4EBB-4226-8158-F385046F5F3C}.Release|Any CPU.Build.0 = Release|Any CPU	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
